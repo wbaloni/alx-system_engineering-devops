@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -rwxr-x-wx ./julien/julien/hello
+chmod -rwxr-x-wx ./hello
